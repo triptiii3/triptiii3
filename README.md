@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋</h1>
+<h1 align="center">Hey👋, I am Tripti Chugh</h1>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Tripti Chugh from Delhi, India.<br><br>- 🔭 I’m working as frontend developer at SimpliML.<br>- 📚 I'm currently learning In depth concepts of frontend development ,, APIs, redux and backend development using node js.<br>- ⚡ I am an artist, checkout my sketches on my instagram link!</p>
+<p align="left">- 🔭 I’m working as frontend developer intern at SimpliML.<br>- 📚 I'm currently learning In depth concepts of frontend development ,, APIs, redux and backend development using node js.<br>- ⚡ I am an artist, checkout my sketches on my instagram link!</p>
 
 ###
 
